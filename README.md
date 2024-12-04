@@ -7,7 +7,7 @@ Software Engineer || Backend Developer
 A passionate backend developer from Jordan, specializing in building robust and scalable applications. With a strong foundation in Node.js, JavaScript, and databases like Redis and PostgreSQL, I am dedicated to crafting efficient backend systems. I enjoy solving problems, learning new technologies, and continuously improving my skills. I am currently exploring advanced backend concepts and am open to collaborating on meaningful projects that make an impact.
 
 * 🌍  I'm based in Amman, Jordan
-* 🚀  I'm currently working on [ChatApp](http://github.com/SaeedHaddad/ChatApp)
+* 🚀  I'm currently working on [ChatApp](https://github.com/SaeedHaddad/ChatProject)
 * 🧠  I'm learning Node.js
 
 <a href="https://www.github.com/SaeedHaddad" target="_blank" rel="noreferrer"><img
